@@ -1,1 +1,1 @@
-# MultimediskiSistemiAlgoritmi
+# Мултимедиски системи алгоритми
